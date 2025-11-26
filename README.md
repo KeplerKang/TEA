@@ -10,7 +10,9 @@ You can follow our training pipeline implementation here for TEA: Temporal Adapt
 
 - You can install all dependencies with the provided requirements file.
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Data Preparations
 
