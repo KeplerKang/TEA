@@ -1,6 +1,7 @@
 # TEA
 
 You can follow our training pipeline implementation here for TEA: Temporal Adaptive Satellite Image Semantic Segmentation.
+![exp](docs/exp.png)
 
 ## Get Started
 
