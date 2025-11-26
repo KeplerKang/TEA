@@ -28,4 +28,6 @@ bash run.sh
 
 ## Citation
 
+Please cite our work if your research references ours.
+
 ## Acknowledgement
